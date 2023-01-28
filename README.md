@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**PythonKrishna29/PythonKrishna29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About this repository
+This repository is made to provide viewers some of my best programs in exe formate so that anyone can use them.
+Here, I will be uploading some of my programs regularly so that you won't get bored.
+**Hello Viewers**
+```python
+print("Hello Viewers)
+```
+-----------
+```c++
+#include <iostream>
+using namespace std;
+int main(){
+    cout<<"Hello World";
+    return 0;
+}
+```
+**#AI, #Python, #C++, #Programming**
+# Thanks For Reading
